@@ -1,0 +1,64 @@
+const CUSTOMER_ROLE = 1;
+const WRITER_ROLE = 2;
+const ADMIN_ROLE = 3;
+
+const ROLES = {
+     CUSTOMER_ROLE,
+     WRITER_ROLE,
+     ADMIN_ROLE
+};
+
+const OK_200 = 200;
+const CREATED_201 = 201;
+const ACCEPTED_202 = 202;
+const NO_CONTENT_204 = 204;
+
+const BAD_REQUEST_400 = 400;
+const UNAUTHORIZED_401 = 401;
+const FORBIDDEN_403 = 403;
+const NOT_FOUND_404 = 404;
+const CONFLICT_409 = 409;
+
+const SERVER_ERROR_500 = 500;
+
+const STATUS_CODES = {
+    OK_200,
+    CREATED_201,
+    ACCEPTED_202,
+    NO_CONTENT_204,
+    BAD_REQUEST_400,
+    UNAUTHORIZED_401,
+    FORBIDDEN_403,
+    NOT_FOUND_404,
+    CONFLICT_409,
+    SERVER_ERROR_500
+};
+
+const FIELD_TYPE_STRING = 1;
+const FIELD_TYPE_NUMBER = 2;
+const FIELD_TYPE_BOOLEAN = 3;
+
+const FIELD_TYPES = {
+    FIELD_TYPE_STRING,
+    FIELD_TYPE_NUMBER,
+    FIELD_TYPE_BOOLEAN
+};
+
+const ACCOUNT_VERIFICATION = 'accountVerification';
+const EMAIL_VERIFICATION = 'emailVerification';
+const PASSWORD_RESET = 'passwordReset';
+const ACCOUNT_DELETION = 'accountDeletion';
+
+const VERIFICATION_TYPES = {
+    ACCOUNT_VERIFICATION,
+    EMAIL_VERIFICATION,
+    PASSWORD_RESET,
+    ACCOUNT_DELETION
+};
+
+module.exports = {
+    ROLES,
+    STATUS_CODES,
+    FIELD_TYPES,
+    VERIFICATION_TYPES
+};

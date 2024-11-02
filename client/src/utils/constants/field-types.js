@@ -1,0 +1,11 @@
+const FIELD_TYPE_STRING = 1;
+const FIELD_TYPE_NUMBER = 2;
+const FIELD_TYPE_BOOLEAN = 3;
+
+const FIELD_TYPES = {
+    FIELD_TYPE_STRING,
+    FIELD_TYPE_NUMBER,
+    FIELD_TYPE_BOOLEAN
+};
+
+export default FIELD_TYPES;

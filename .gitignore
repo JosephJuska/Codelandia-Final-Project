@@ -1,0 +1,6 @@
+.vscode/
+**/node_modules/
+**/.env
+/database/init.bat
+/database/sql_files.txt
+/database/util/

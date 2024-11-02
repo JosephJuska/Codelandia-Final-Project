@@ -1,0 +1,34 @@
+{
+  "level": "INFO",
+  "message": "Image uploaded successfully",
+  "data": {
+    "filePath": "C:\\Users\\yusif\\Desktop\\Learning\\Codelandia\\Final Project\\api/static/brand/1730540766566.avif"
+  },
+  "error": null,
+  "date": "2024-11-02 13:46:06"
+}
+{
+  "level": "INFO",
+  "message": "Image uploaded successfully",
+  "data": {
+    "filePath": "C:\\Users\\yusif\\Desktop\\Learning\\Codelandia\\Final Project\\api/static/brand/1730540781664.avif"
+  },
+  "error": null,
+  "date": "2024-11-02 13:46:21"
+}
+{
+  "level": "INFO",
+  "message": "Image uploaded successfully",
+  "data": {
+    "filePath": "C:\\Users\\yusif\\Desktop\\Learning\\Codelandia\\Final Project\\api/static/brand/1730540794181.avif"
+  },
+  "error": null,
+  "date": "2024-11-02 13:46:34"
+}
+{
+  "level": "INFO",
+  "message": null,
+  "data": null,
+  "error": null,
+  "date": "2024-11-02 13:46:34"
+}
